@@ -1,3 +1,9 @@
 body {
-  background-color: #C7C5AE;
+  background-color: #C7C5AE
+},
+h1 {
+  font-family: 'VT323', monospace;
+  font-size: 48px;
+}
+  
   
